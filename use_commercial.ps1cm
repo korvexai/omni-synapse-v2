@@ -1,0 +1,2 @@
+.\use_commercial.ps1
+cargo run --release

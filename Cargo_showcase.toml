@@ -1,0 +1,19 @@
+[package]
+name = "korvex-omni-synapse-showcase"
+version = "2.0.0"
+edition = "2021"
+
+[dependencies]
+# Web & Server
+actix-web = "4.0"
+
+# Only what is strictly necessary for demo
+# No audit, no security, no JSON
+
+[profile.release]
+opt-level = 3
+lto = "fat"
+codegen-units = 1
+panic = "abort"
+strip = true
+

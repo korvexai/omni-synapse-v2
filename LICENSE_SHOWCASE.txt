@@ -1,0 +1,38 @@
+﻿KORVEX OMNI-SYNAPSE – SHOWCASE LICENSE
+Copyright (c) 2026 Korvex. All rights reserved.
+
+This license applies exclusively to the following software version: “Korvex Omni-Synapse – Showcase / Display Edition”
+
+1. PERMISSIONS
+The Licensor hereby grants the User a non-exclusive, non-transferable right to use this version strictly for the following purposes:
+
+Personal Study: Evaluation of the source code and architectural logic.
+
+Technical Demonstrations: Showcase of the software capabilities in controlled environments.
+
+Benchmarks: Performance testing and speed comparisons.
+
+Presentations: Inclusion in educational or technical slides and talks.
+
+2. FORBIDDEN USES (RESTRICTIONS)
+The following actions are strictly prohibited and constitute a violation of this agreement:
+
+Commercial Use: Any use of the software to generate revenue or business value.
+
+Production Integration: Incorporating the software into paid products, platforms, or applications.
+
+Resale: Selling, leasing, or sub-licensing the software or its components.
+
+Redistribution: Distributing modified or unmodified versions of the source code.
+
+SaaS/PaaS: Offering the engine as a managed service or cloud-based utility.
+
+3. LEGAL NOTICE
+Any use with an economic or financial purpose is STRICTLY ILLEGAL without an active Korvex Commercial License. Unauthorized use may result in civil liability and copyright infringement claims under international intellectual property laws.
+
+4. LICENSING CONTACT
+To upgrade to a Commercial License or to request production access, please contact:
+
+Email: contactkorvex.ai@gmail.com
+
+This version is strictly NON-COMMERCIAL.

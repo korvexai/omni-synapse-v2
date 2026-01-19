@@ -1,0 +1,2 @@
+.\use_showcase.ps1
+cargo run --release

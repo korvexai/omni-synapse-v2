@@ -1,0 +1,38 @@
+[package]
+name = "korvex-omni-synapse"
+version = "2.0.0"
+edition = "2021"
+authors = ["Korvex"]
+description = "Ultra-Low Latency Core with HMAC Licensing"
+
+# Commercial Version: Bare-metal speed with Integrated Cryptographic Security
+
+[dependencies]
+# High-performance Web Server
+actix-web = "4.0"
+
+# Concurrent data structures for license verification (O(1) access)
+dashmap = "5.5"
+
+# Serialization/Deserialization for JSON Audit and Database
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+serde_yaml = "0.9"
+
+# Cryptography for X-Korvex-Signature
+hmac = "0.12"
+sha2 = "0.10"
+hex = "0.4"
+
+# Time and Atomic Utilities (zero-overhead)
+chrono = "0.4"
+instant = "0.1"
+arc-swap = "1.6"
+
+[profile.release]
+opt-level = 3           # Maximum speed optimization (O3)
+lto = "fat"             # Global Link Time Optimization (eliminates redundant calls)
+codegen-units = 1       # Single unit for aggressive cross-module optimizations
+panic = "abort"         # Removes stack unwinding overhead (speed + compact binary)
+strip = true            # Removes debug symbols for code protection
+
