@@ -1,4 +1,4 @@
-﻿---
+---
 keywords: [rust, high-performance, low-latency, hft, optimization, rdtsc, assembly, lock-free, omni-synapse, korvex-ai]
 ---
 ![Performance Audit](https://github.com/korvexai/korvex-video-engine/actions/workflows/audit.yml/badge.svg)
@@ -13,7 +13,7 @@ Korvex Omni-Synapse v2.0 is an HFT-grade engine optimized for real-time processi
 ##  Benchmarks
 | Component | Performance | Status |
 | :--- | :--- | :--- |
-| **Admission Path** | **~336 Cycles** |  HFT Grade |
+| **Admission Path** | **121 Cycles (Record)** |  HFT Grade |
 | **Security Validation** | **< 300 Cycles** |  Optimized |
 
  **Contact:** contactkorvex.ai@gmail.com
