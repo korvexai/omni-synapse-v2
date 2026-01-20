@@ -1,7 +1,7 @@
-ÔªøKORVEX OMNI-SYNAPSE ‚Äì SHOWCASE LICENSE
+KORVEX OMNI-SYNAPSE ñ SHOWCASE LICENSE
 Copyright (c) 2026 Korvex. All rights reserved.
 
-This license applies exclusively to the following software version: ‚ÄúKorvex Omni-Synapse ‚Äì Showcase / Display Edition‚Äù
+This license applies exclusively to the following software version: ìKorvex Omni-Synapse ñ Showcase / Display Editionî
 
 1. PERMISSIONS
 The Licensor hereby grants the User a non-exclusive, non-transferable right to use this version strictly for the following purposes:

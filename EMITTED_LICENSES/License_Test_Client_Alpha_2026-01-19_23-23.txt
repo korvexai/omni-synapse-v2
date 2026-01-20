@@ -1,0 +1,10 @@
+﻿========================================
+  KORVEX OMNI-SYNAPSE OFFICIAL LICENSE
+========================================
+CLIENT:      Test_Client_Alpha
+TIER:        PRO
+ISSUE DATE:  19 ianuarie 2026 23:23
+TOKEN:       KX-PRO-2026-01-VDZAB7S4
+========================================
+STATUS:      ACTIVE
+========================================

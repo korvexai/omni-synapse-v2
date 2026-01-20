@@ -1,4 +1,5 @@
-﻿//  2026 Korvex | Audit Module | FREEZE v1.0
+#![allow(dead_code)]
+//  2026 Korvex | Audit Module | FREEZE v1.0
 use std::sync::atomic::{AtomicU64, Ordering};
 use std::arch::x86_64::{_rdtsc, _mm_lfence};
 

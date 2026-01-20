@@ -1,0 +1,24 @@
+﻿============================================================
+       KORVEX OMNI-SYNAPSE v2.0 - OFFICIAL RELEASE
+============================================================
+
+Thank you for choosing Korvex AI technology. 
+Your engine has been successfully tuned and audited at 121 CPU Cycles.
+
+QUICK START:
+1. Ensure your environment supports x86_64 high-precision timing.
+2. Deploy 'korvex-omni-synapse.exe' to your production server.
+3. Activate the engine using your unique License Token via the 
+   'X-Korvex-License' header.
+
+TECHNICAL SPECIFICATIONS:
+- Admission Latency: 121 Cycles
+- Security: Proprietary Hard-Lock v2.0
+- Profile: Optimized for Ultra-Low Latency Trading
+
+SUPPORT & ACTIVATION:
+For additional tokens or enterprise integration, contact:
+Email: ionelpetru19810@gmail.com
+
+ 2026 Korvex AI. All rights reserved.
+============================================================

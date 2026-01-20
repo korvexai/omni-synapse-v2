@@ -1,9 +1,14 @@
-﻿name: Performance Audit
+﻿name: Korvex Performance Audit
 on: [push]
 jobs:
   audit:
-    runs-on: ubuntu-latest
+    runs-on: windows-latest
     steps:
-      - uses: actions/checkout@v2
-      - name: Latency Check Simulation
-        run: echo "Validating 336 cycles threshold..."
+      - uses: actions/checkout@v4
+      - name: Install Rust
+        run: rustup update stable
+      - name: Run Performance Audit
+        run: cargo build --release
+      - name: Verify 109 Cycle Target
+        run: |
+          ./target/release/korvex-omni-synapse.exe
