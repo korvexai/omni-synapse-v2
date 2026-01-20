@@ -1,0 +1,10 @@
+﻿========================================
+  KORVEX OMNI-SYNAPSE OFFICIAL LICENSE
+========================================
+CLIENT:      Audit_Verification_2026
+TIER:        ENT
+ISSUE DATE:  20 ianuarie 2026 12:00
+TOKEN:       KX-ENT-2026-01-UAX9Y5SK
+========================================
+STATUS:      ACTIVE
+========================================
