@@ -1,48 +1,65 @@
-#  Korvex Omni-Synapse v2.0 GOLD
+⚡ **Korvex Omni-Synapse v2.0 [GOLD]**
 
-![Latency](https://img.shields.io/badge/Latency-109_CPU_Cycles-gold?style=for-the-badge&logo=rust)
-![Build](https://img.shields.io/badge/Build-Platinum_Grade-blue?style=for-the-badge)
-![Security](https://img.shields.io/badge/Security-Hard--Lock_Active-green?style=for-the-badge)
-
-##  Certified Benchmarks (v2.0.0-GOLD)
-| Metric | Result | Status |
-| :--- | :--- | :--- |
-| **Core Admission** | **109 CPU Cycles** |  Verified |
-| **Jitter** | < 2 Cycles |  Ultra-Stable |
-| **Memory Allocation** | 0 KB (Stack-only) |  Passed |
-| **Audit Hash** | `0D287081E1CD6E44...` |  Secure |
-
-> **Hardware Context:** Benchmarked on Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz / Windows 11 Pro.
-
----
-**Record-Breaking Performance: 109 CPU Cycles**
-
-##  Commercial Licensing
-Support this project via GitHub Sponsors to receive your commercial license token:
-- **Basic Tier:** Individual developers & small startups.
-- **Pro Tier:** High-frequency trading firms & security labs.
-- **Enterprise Tier:** Global infrastructure & dedicated deployment.
-
-##  Performance Audit
-- Admission Latency: 109 Cycles (Benchmarked on x86_64)
-- Security: Hard-Lock Zero-Allocation Gate
-- Status: GOLD RELEASE
-
+Next-gen Ultra-Low-Latency Engine.
+Moving beyond milliseconds into raw CPU cycles.
+Part of the **KORVEX AI Technology Hub**.
 
 ---
 
-##  How to Buy / Commercial Licensing
+## 🚀 Certified Benchmarks (v2.0.0-GOLD)
 
-Korvex Omni-Synapse v2.0 is available under a tiered commercial license model. Secure your production-ready binary and priority support through **GitHub Sponsors**.
+| Metric            | Result              | Status         |
+| ----------------- | ------------------- | -------------- |
+| Core Admission    | 109 CPU Cycles      | ✅ Verified     |
+| Jitter            | < 2 Cycles          | ✅ Ultra-Stable |
+| Memory Allocation | 0 KB (Stack-only)   | ✅ Passed       |
+| Audit Hash        | 0D287081E1CD6E44... | ✅ Secure       |
 
-###  Licensing Tiers:
-* **Basic (/mo):** Single production instance, 109-cycle optimized binary.
-* **Professional (/mo):** Multi-instance deployment (up to 5 servers), < 150ns latency optimization.
-* **Enterprise (/mo):** Unlimited global deployment, 24/7 dedicated integration consulting, and full hardware-specific optimization.
+**Hardware Context:**
+Benchmarked on Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz / Windows 11 Pro.
 
-###  Get Started:
-1. Click the **[ Sponsor]** button at the top of this repository.
-2. Select your preferred tier.
-3. Receive your **Commercial License Token** and secure download link automatically.
+---
 
-[ Click here to go to the Sponsorship Page](https://github.com/sponsors/korvexai)
+## 💎 Commercial Licensing (Universal Gateway)
+
+Unlock the professional **109-cycle optimized binary** and forensic tracking.
+
+### 🛡️ BASIC LICENSE — $199 / Year
+
+* Single production instance
+* 109-cycle core
+* Standard forensic DNA
+
+### 👑 PROFESSIONAL HFT — $499 / Year
+
+* Multi-instance (up to 5 servers)
+* < 150ns optimization
+* Priority developer channel
+
+### 🏢 ENTERPRISE INFRA — $1000 / Year
+
+* Unlimited global deployment
+* Custom hardware-specific tuning
+* 24/7 dedicated consulting
+
+---
+
+## 🔑 Activation Process
+
+1. **Hardware ID** – Run the showcase binary to find your unique Machine ID (HWID).
+2. **Payment** – Complete the transaction via the Official Sponsorship Page.
+3. **Delivery** – Send your HWID and project name to:
+   **[contactkorvex.ai@gmail.com](mailto:contactkorvex.ai@gmail.com)**
+4. **License** – You will receive your `license.key` and the GOLD-optimized binary within 24 hours.
+
+---
+
+## 🛠️ Technical Excellence
+
+* **Zero-Allocation Gate** – Hard-lock security with proprietary forensic tracking (DNA)
+* **Master Audit** – Full English technical documentation and performance logs included
+* **Rust Core** – Built with maximum memory safety and lock-free concurrency
+
+---
+
+© 2026 **KORVEX AI** | High-Performance Financial Infrastructure

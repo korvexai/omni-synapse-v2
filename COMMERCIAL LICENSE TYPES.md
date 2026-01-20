@@ -1,91 +1,71 @@
-🛡️ KORVEX OMNI-SYNAPSE
-COMMERCIAL LICENSE AGREEMENT
+🛡️ KORVEX OMNI-SYNAPSE: COMMERCIAL LICENSE AGREEMENT
 Copyright (c) 2026 Korvex | All rights reserved.
 
-INTRODUCTION
-This Commercial License governs the use of the Korvex Omni-Synapse high-performance engine. Use of this software is permitted ONLY with a valid License Token and an active subscription.
+INTRODUCTION This Commercial License governs the professional use of the Korvex Omni-Synapse high-performance engine. Use of this software in a production or commercial environment is permitted ONLY with a valid Hardware-Locked License Key (HWID) and an active sponsorship tier.
 
-1. LICENSE TIERS
+1. LICENSE TIERS (2026 OFFICIAL)
 BASIC LICENSE
-Price: 49 EUR / month
+Price: $199 / Year
 
-Deployment: 1 Server Instance
+Deployment: 1 Server Instance (Single HWID)
 
-Daily Volume: Max 10,000 Requests
+Optimization: 109-cycle core optimized for standard HFT production.
 
-Support: Standard Email Support
+Support: Standard Email Support.
 
-Service Level: Standard
+PRO / GOLD LICENSE
+Price: $499 / Year
 
-PRO LICENSE
-Price: 149 EUR / month
+Deployment: Up to 5 Servers (Multi-Instance)
 
-Deployment: Up to 5 Servers
+Optimization: Ultra-Low Latency (< 150ns) & Enhanced forensic tracking.
 
-Daily Volume: Unlimited Requests
+Support: Priority Developer Support Channel.
 
-Support: Priority Support
+ENTERPRISE INFRASTRUCTURE
+Price: $1000 / Year
 
-Service Level: High Priority
+Deployment: Unlimited Global Servers
 
-ENTERPRISE LICENSE
-Price: 499 EUR / month
+Optimization: Custom hardware-specific tuning & Full Commercial Rights.
 
-Deployment: Unlimited Servers
+Support: 24/7 Dedicated Integration Consulting & Custom SLA.
 
-Daily Volume: Unlimited Requests
+2. LICENSING & ACTIVATION SYSTEM
+Upon purchase via the official KORVEX AI Technology Hub, each client is issued a unique License Key. This key is cryptographically linked to:
 
-Support: 24/7 Dedicated Support
+Machine ID (HWID): The specific hardware signature of the host server.
 
-Service Level: Custom SLA & Integration
+Tier Level: Authorized performance parameters (Basic/Gold/Enterprise).
 
-2. LICENSE TOKEN SYSTEM
-Upon purchase, each client is issued a unique License Token. This token is cryptographically linked to:
+Expiration: Valid for 12 months from the date of issuance.
 
-The Selected Tier (Basic/Pro/Enterprise)
+REQUIREMENT: The license.key file must be present in the application's root directory for the engine to unlock GOLD-tier performance.
 
-Expiration Date (End of current month)
+3. EXPIRATION & REFUNDS
+Annual Renewal: Licenses are valid for one calendar year. Failure to renew results in immediate engine fallback to "Community Mode" or access suspension.
 
-Security Parameters (Internal limits)
-
-INTEGRATION REQUIREMENT: The token must be included in the header of every API request.
-
-Header Name: X-Korvex-License
-
-Format: KX-[TIER]-[YYYY-MM]-[ID]
-
-Example: X-Korvex-License: KX-PRO-2026-03-ABCD1234
-
-3. EXPIRATION & RENEWAL
-Automatic Expiry: Licenses expire at 23:59 UTC on the last day of the calendar month.
-
-Access Suspension: System access is immediately blocked upon expiration.
-
-Error Handling: The engine returns 401 LICENSE_EXPIRED for all unauthorized requests.
+Digital Finality: Due to the nature of digital delivery and HWID locking, all sales are final. No refunds will be issued once a license key has been generated for a specific Machine ID.
 
 4. PROHIBITED ACTIONS
-Violation results in immediate license revocation:
+Violation results in immediate license revocation and blacklisting:
 
-✘ Use without a valid, active token.
+✘ Attempting to bypass, reverse-engineer, or remove the HWID lock.
 
-✘ Token sharing between third parties.
+✘ Token/Key sharing between unauthorized third parties.
 
-✘ Resale or redistribution without written agreement.
+✘ Redistribution of the "GOLD" binaries or source code.
 
-✘ Bypassing or removing licensing mechanisms.
+✘ Claiming the Korvex Omni-Synapse core as your own creation.
 
 5. LEGAL LIABILITY
-Unauthorized use constitutes:
+Unauthorized commercial use constitutes:
 
-Copyright Infringement: Violation of international IP laws.
+Copyright Infringement: Violation of international Intellectual Property laws.
 
-Illegal Use: Unauthorized exploitation of technology.
+Civil Liability: Unauthorized users are liable for full damages, lost revenue, and all associated legal fees.
 
-Civil Liability: Users are liable for damages, lost revenue, and legal fees.
-
-6. CONTACT & LICENSING
-For acquisition, upgrades, or integration queries:
-
-Email: contactkorvex.ai@gmail.com
+6. CONTACT & ACTIVATION
+To secure your license or request an upgrade: Official Portal: github.com/sponsors/korvexai Email: contactkorvex.ai@gmail.com
 
 © 2026 Korvex | Ultra-Low-Latency Systems Engineering

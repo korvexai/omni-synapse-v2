@@ -1,5 +1,6 @@
-﻿/target/
-**/*.rs.bk
-korvex_security_audit.json
-licenses.json
-.DS_Store
+﻿/target
+/temp
+/video_output
+license.key
+*.pdb
+*.exe
