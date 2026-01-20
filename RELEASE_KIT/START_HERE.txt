@@ -3,7 +3,7 @@
 ============================================================
 
 Thank you for choosing Korvex AI technology. 
-Your engine has been successfully tuned and audited at 121 CPU Cycles.
+Your engine has been successsfully tuned and audited at 121 CPU Cycles.
 
 QUICK START:
 1. Ensure your environment supports x86_64 high-precision timing.
@@ -22,3 +22,4 @@ Email: ionelpetru19810@gmail.com
 
  2026 Korvex AI. All rights reserved.
 ============================================================
+

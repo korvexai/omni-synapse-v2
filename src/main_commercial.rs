@@ -1,4 +1,4 @@
-// © 2026 Korvex | Ultra-Low-Latency Core | FREEZE v1.0
+﻿// Â© 2026 Korvex | Ultra-Low-Latency Core | FREEZE v1.0
 // COMMERCIAL VERSION: Tiered Licensing + Audit-DNA + Auto-Ban + Forensic Tracking
 
 mod platform;
@@ -171,7 +171,7 @@ async fn fire_handler(
     let _ = log_sender.send(AuditEntry {
         timestamp: chrono::Local::now().to_rfc3339(),
         ip: ip.to_string(),
-        event: if result.authorized { "SUCCESS".into() } else { "BREACH_ATTEMPT".into() },
+        event: if result.authorized { "successS".into() } else { "BREACH_ATTEMPT".into() },
         license: lic_key.to_string(),
         cycles: result.cycles,
         fingerprint: ENGINE_FINGERPRINT.to_string(),
@@ -204,8 +204,8 @@ async fn main() -> std::io::Result<()> {
     });
 
     println!("==================================================");
-    println!("🏁 KORVEX OMNI-SYNAPSE v2.0 | HARD-LOCK ACTIVE");
-    println!("🛡️  PORT 8080: ONLINE");
+    println!("ðŸ KORVEX OMNI-SYNAPSE v2.0 | HARD-LOCK ACTIVE");
+    println!("ðŸ›¡ï¸  PORT 8080: ONLINE");
     println!("==================================================");
 
     HttpServer::new(move || {

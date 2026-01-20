@@ -1,4 +1,4 @@
-// © 2026 Korvex | Ultra-Low-Latency Core | FREEZE v1.1 (HMAC Secured)
+﻿// Â© 2026 Korvex | Ultra-Low-Latency Core | FREEZE v1.1 (HMAC Secured)
 
 mod platform;
 mod audit;
@@ -176,7 +176,7 @@ async fn fire_handler(
     let _ = log_sender.send(AuditEntry {
         timestamp: chrono::Local::now().to_rfc3339(),
         ip: ip.to_string(),
-        event: if authorized { "SUCCESS".into() } else { "BREACH".into() },
+        event: if authorized { "successS".into() } else { "BREACH".into() },
         license: lic_key.to_string(),
         cycles,
     });
@@ -202,9 +202,9 @@ async fn main() -> std::io::Result<()> {
     });
 
     println!("==================================================");
-    println!("🏁 KORVEX OMNI-SYNAPSE v2.0 | COMMERCIAL CORE");
-    println!("🔐 Mode: AES-HMAC Integrity Enabled");
-    println!("🛡️  Auto-Ban & Audit-DNA: ACTIVE");
+    println!("ðŸ KORVEX OMNI-SYNAPSE v2.0 | COMMERCIAL CORE");
+    println!("ðŸ” Mode: AES-HMAC Integrity Enabled");
+    println!("ðŸ›¡ï¸  Auto-Ban & Audit-DNA: ACTIVE");
     println!("==================================================");
 
     HttpServer::new(move || {
